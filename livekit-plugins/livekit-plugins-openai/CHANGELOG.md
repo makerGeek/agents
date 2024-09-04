@@ -1,5 +1,11 @@
 # livekit-plugins-openai
 
+## 0.8.2
+
+### Patch Changes
+
+- skip processing of choice.delta when it is None - [#705](https://github.com/livekit/agents/pull/705) ([@theomonnom](https://github.com/theomonnom))
+
 ## 0.8.1
 
 ### Patch Changes
