@@ -1,5 +1,11 @@
 # livekit-plugins-google
 
+## 0.6.4
+
+### Patch Changes
+
+- google-tts: ignore wav header - [#703](https://github.com/livekit/agents/pull/703) ([@theomonnom](https://github.com/theomonnom))
+
 ## 0.6.3
 
 ### Patch Changes
